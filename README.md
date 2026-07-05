@@ -1,43 +1,63 @@
-Centro de Memória Raízes Quilombola de São Manoel
-Este repositório contém o código-fonte do portal oficial do Centro de Memória Raízes Quilombola de São Manoel. O projeto foi desenvolvido com o objetivo de preservar a ancestralidade, valorizar os saberes tradicionais e servir como ponto de articulação para a juventude e a comunidade local.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Preservando_Memória-964B00?style=for-the-badge&logo=gitbook&logoColor=white" alt="Status">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+</p>
 
-🚀 Sobre o Projeto
-O site atua como um espaço digital de resistência e memória, destacando:
+<h1 align="center">🌱 Centro de Memória Raízes Quilombola de São Manoel</h1>
 
-A história da comunidade e suas raízes.
+<p align="center">
+  <b>Um portal digital de resistência, ancestralidade e valorização dos saberes tradicionais.</b>
+</p>
 
-Ações voltadas ao afroturismo, arte, oficinas, educação e eventos.
+---
 
-Valorização das lideranças e do cotidiano de São Manoel.
+## 📜 Propósito
+O <b>Centro de Memória Raízes Quilombola de São Manoel</b> não é apenas um site; é um território digital de resistência. Este portal foi criado para preservar a história viva, conectar a juventude às suas origens e dar visibilidade às ações que mantêm nossa cultura pulsante.
 
-🛠 Tecnologias Utilizadas
-O projeto foi construído focando em performance, simplicidade e facilidade de manutenção:
+> *"A memória é o alicerce que sustenta o nosso futuro."*
 
-HTML5: Estruturação semântica do conteúdo.
+---
 
-Tailwind CSS: Estilização moderna, responsiva e ágil, integrada diretamente à estrutura para garantir um design limpo e fluido.
+## ⚡ Pilares do Projeto
 
-Git/GitHub: Controle de versão e hospedagem do projeto.
+| Pilar | Foco de Atuação |
+| :--- | :--- |
+| 🌍 **Ancestralidade** | Registro histórico da comunidade de São Manoel. |
+| 🛠 **Oficinas & Arte** | Divulgação de saberes tradicionais e educação. |
+| 👣 **Afroturismo** | Valorização do território e vivências comunitárias. |
+| 🗣 **Articulação** | Espaço de fala para juventude e lideranças. |
 
-📦 Estrutura do Portal
-O portal está sendo desenvolvido de forma modular, permitindo a integração de:
+---
 
-Linha do Tempo: Registro dos marcos históricos da comunidade.
+## 🛠 Stack Tecnológica
+Desenvolvido com foco em alta performance e design responsivo para garantir que a história chegue a todos, em qualquer dispositivo.
 
-Galeria de Memórias: Espaço dedicado a fotos e depoimentos.
+*   **Estrutura:** `HTML5` (Semântica e Acessibilidade)
+*   **Design:** `Tailwind CSS` (Estética moderna e fluida)
+*   **Gestão:** `Git/GitHub` (Versionamento colaborativo)
 
-Ações e Projetos: Destaque para as atividades práticas do Centro (Afroturismo, Oficinas, etc.).
+---
 
-🤝 Contribuição
-Este projeto é um esforço coletivo para a preservação cultural da comunidade de São Manoel. Caso precise contribuir, sinta-se à vontade para abrir uma Issue ou enviar um Pull Request.
+## 📂 Arquitetura do Portal
+O projeto é estruturado para expansão constante:
 
-Desenvolvido com dedicação para o fortalecimento da nossa história.
+*   🏛 **Linha do Tempo:** Os marcos históricos da nossa comunidade.
+*   📸 **Galeria de Memórias:** O cotidiano, as lideranças e a força de São Manoel.
+*   📅 **Ações & Projetos:** Agenda de oficinas, eventos e afroturismo.
 
-Como aplicar isso no seu repositório:
-No seu novo repositório no GitHub, abra o arquivo README.md.
+---
 
-Clique no ícone de lápis (Edit).
+## 🤝 Como Contribuir
+Este é um esforço coletivo. A história de São Manoel é escrita por todos nós. Se você é desenvolvedor, historiador ou entusiasta, sua ajuda é muito bem-vinda:
 
-Apague o conteúdo que está lá e cole esse texto que escrevi acima.
+1. **Fork** o projeto.
+2. Crie uma **Issue** para sugestões.
+3. Envie um **Pull Request** para melhorias.
 
-Clique em "Commit changes" lá embaixo.
+---
+
+<p align="center">
+  <i>"Fortalecendo a nossa história, conectando o nosso povo."</i><br>
+  <b>Centro de Memória Raízes Quilombola de São Manoel</b>
+</p>
