@@ -7,7 +7,7 @@
 <h1 align="center">🌱 Centro de Memória Raízes Quilombola de São Manoel</h1>
 
 <p align="center">
-  <b>Um portal digital de resistência, ancestralidade e valorização dos saberes tradicionais.</b>
+  <b>Portal oficial do Centro de Memória Raízes Quilombola de São Manoel. Projeto de preservação da ancestralidade e saberes tradicionais da comunidade.</b>
 </p>
 
 ---
